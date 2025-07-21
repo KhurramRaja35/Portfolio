@@ -1,19 +1,12 @@
 
-:global(.swiper) {
+.carouselContainer :global(.swiper) {
   /* width: 100%; */
   padding-bottom: 50px; 
   /* Adds space for pagination */
 }
 
-/* :global(.swiper-pagination) {
-  /* position: relative;
-  bottom: 0;
-  width: 100%;
-  text-align: center; */
-  /* margin-top: 25px; Space between slides and pagination */
-/* } */
 
-:global(.swiper-pagination-bullet) {
+.carouselContainer :global(.swiper-pagination-bullet) {
   width: 10px;
   height: 10px;
   background: #888;
@@ -21,7 +14,7 @@
   margin: 0 5px;
 }
 
-:global(.swiper-pagination-bullet-active) {
+.carouselContainer :global(.swiper-pagination-bullet-active) {
   background: #6E50F0;
   opacity: 1;
   outline: 2px solid #F45C70 ;

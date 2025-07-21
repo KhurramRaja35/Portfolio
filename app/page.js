@@ -12,25 +12,11 @@ import Skills from "@/components/Skills";
 import Speciality from "@/components/Speciality";
 import ContactUs from "@/components/ContactUs";
 import Footer from "@/components/Footer";
-// import Lenis from "lenis";
+
 
 
 export default function Home() {
 
-  // useEffect(() => {
-  //   // Initialize Lenis
-  //   const lenis = new Lenis();
-
-  //   // Use requestAnimationFrame to continuously update the scroll
-  //   function raf(time) {
-  //     lenis.raf(time);
-  //     requestAnimationFrame(raf);
-  //   }
-
-  //   requestAnimationFrame(raf);
-
-
-  // }, [])
 
 
   return (
