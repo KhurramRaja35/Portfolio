@@ -26,7 +26,7 @@ export default function Home() {
 
         <div className="intro grid grid-cols-1 lg:grid-cols-2 w-[90%] md:w-[80%] mx-auto gap-10 lg:gap-5 pt-8 md:pt-15 lg:pt-20 md:pb-20 lg:pb-40 pb-17 ">
           <div className="col1 flex flex-col lg:pt-5 gap-5">
-            <div className="1 text-2xl md:text-3xl font-bold autoShow">
+            <div className="1 text-2xl md:text-3xl font-bold">
               Hello, I'm
             </div>
             <div className="2 text-5xl md:text-6xl font-bold autoShow">
