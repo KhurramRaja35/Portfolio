@@ -72,7 +72,7 @@ const Project = () => {
                 </div>
             </div>
 
-            <div className="carosel mx-5 carouselContainer">
+            <div className={`${styles.carouselContainer} carousel mx-5`}>
                 <Swiper
                     slidesPerView={4}
                     spaceBetween={30}
