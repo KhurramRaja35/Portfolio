@@ -68,8 +68,8 @@ const Project = () => {
                 <div className="2 text-3xl md:text-6xl font-bold text-center">
                     Check My Amazing Work
                 </div>
-                <div className="desc w-full lg:w-[60%] mx-auto md:line-clamp-2 line-clamp-4 text-justify md:text-center font-thin">
-                    Explore my portfolio showcasing modern websites and fullstack solutions built with React, Next.js, TailwindCSS and MongoDB. See how I turn ideas into high-quality, user-friendly digital experiences!
+                <div className="desc w-full lg:w-[80%] mx-auto md:line-clamp-2 line-clamp-4 text-justify md:text-center">
+                    Explore my portfolio showcasing modern websites and fullstack solutions built with React, Next.js, TailwindCSS, MongoDB & GSAP. See how I turn ideas into high-quality, user-friendly digital experiences!
                 </div>
             </div>
 
@@ -100,7 +100,7 @@ const Project = () => {
                     {items.map((item, index) => (
                         <SwiperSlide key={index}>
                             <div
-                                className={`w-full py-3 px-3 transition-all duration-500 ${item.position % 2 === 0 ? 'md:mt-14' : 'md:mt-4'} border-2 border-[#F45C70] rounded-lg transition-transform duration-500 ease-in-out transform hover:scale-110 hover:z-10 bg-white shadow-md`}
+                                className={`w-full py-3 px-3 transition-all duration-500 ${item.position % 2 === 0 ? 'md:mt-14' : 'md:mt-4'} border-3 border-[#F45C70] rounded-lg transition-transform duration-500 ease-in-out transform hover:scale-110 hover:z-10 bg-white shadow-md`}
                             >
                                 <div
                                     className=" h-30  rounded-lg overflow-hidden bg-center bg-no-repeat bg-cover lg:bg-contain"
@@ -109,7 +109,7 @@ const Project = () => {
                                     }}
                                 ></div>
                                 <h3 className="mt-2 text-lg font-semibold">{item.title}</h3>
-                                <p className="mt-1 line-clamp-2 text-sm text-gray-600 font-thin">{item.description}</p>
+                                <p className="mt-1 line-clamp-2 text-sm text-gray-600">{item.description}</p>
                                 <div className="mt-2 flex  gap-2">
                                     <Link target='_blank' href={item.liveLink} className="text-white bg-[#F45C70] active:bg-[#d3485a] hover:bg-[#f8909e] py-1 px-4 rounded-full font-semibold">Live Link</Link>
                                     <Link target='_blank' href={item.githubLink} className="text-white bg-[#6E50F0] hover:bg-[#a592fa] active:bg-[#6248d8] py-1 px-3 rounded-full font-semibold">View Code</Link>

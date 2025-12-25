@@ -35,8 +35,8 @@ export default function Home() {
             <div className="3 text-xl md:text-3xl font-bold autoShow">
               A <span className="text-[#9A87F4]">Web </span>Developer from <span className="text-[#9A87F4]"> Kashmir 🌲</span>
             </div>
-            <div className="desc line-clamp-2 font-thin autoShow">
-              <span className='font-semibold'>Frontend Developer</span> (expanding to <span className='font-semibold'>Full-Stack</span>) with expertise in <span className='font-semibold'>JavaScript, React, Tailwind CSS, Next.js 15 & MongoDB.</span> Passionate about crafting <span className='font-semibold'>performant, accessible, and responsive UIs</span> with modern tools while actively learning backend technologies to develop full-stack solutions. Strong foundation in <span className='font-semibold'>frontend fundamentals</span> and a focus on clean, maintainable code for modern web applications.
+            <div className="desc line-clamp-2 lg:line-clamp-none autoShow">
+              Frontend & WordPress Developer building modern, high-performance websites with React, Next.js, GSAP animations, and scalable WordPress solutions.
             </div>
             <div className="buttons flex items-center gap-5 md:gap-10 ">
               <Link href={"#contact"}>
