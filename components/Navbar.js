@@ -49,7 +49,7 @@ const Navbar = () => {
         >
           {/* Header with logo and close button */}
           <div className="flex items-center justify-between px-4  py-4 border-b">
-            <Image src={"/logo.png"} width={120} height={120} alt='logo' priority className="w-20 h-20 md:w-40 md:h-40 object-contain" />
+            <Image src={"/logo.png"} width={130} height={130} alt='logo' priority className="w-20 h-20 md:w-40 md:h-40 object-contain" />
             <button
               className="p-2"
               onClick={() => setMenuOpen(false)}

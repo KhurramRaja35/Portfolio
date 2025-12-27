@@ -9,8 +9,8 @@ const DownloadCv = () => {
     const handleDownload = () => {
         setIsDownloading(true);
         const link = document.createElement("a");
-        link.href = "/KBR%CV.pdf";
-        link.download = "KBR%CV.pdf";
+        link.href = "/KBR_CV.pdf";
+        link.download = "KBR_CV.pdf";
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);

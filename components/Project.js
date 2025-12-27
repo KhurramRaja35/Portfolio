@@ -57,14 +57,6 @@ const Project = () => {
             description: "A web-based music player inspired by Spotify, built using HTML, CSS, and JavaScript. Features include song playback, playlists, and a user-friendly interface.",
             liveLink: "https://kbr-music-player.netlify.app/",
             githubLink: "https://github.com/KhurramRaja35/spotify-like-music-player",
-        },
-        {
-            position: 7,
-            image: "/dashboard.png",
-            title: "Next Dashboard",
-            description: "Build Dashboard App By Next.js 15, Drizzle ORM and Shadcn",
-            liveLink: "#",
-            githubLink: "#",
         }
     ];
     return (
