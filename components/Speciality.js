@@ -13,7 +13,7 @@ const Speciality = () => {
           Why Choose Me
         </div>
         <div className="desc w-full  lg:w-[90%] md:mx-auto line-clamp-4 md:line-clamp-2 text-justify  md:text-center">
-          I bring a unique blend of passion and skill, delivering tailored web solutions with React, Next.js, and TailwindCSS. My commitment to quality and continuous learning ensures your projects stand out with innovative, reliable results.
+          I focus on building clean, performant, and maintainable web interfaces using modern technologies like React, Next.js, Tailwind CSS, and GSAP. My approach emphasizes responsiveness, smooth user interactions, and real-world usability, ensuring reliable and scalable frontend solutions.
         </div>
       </div>
 

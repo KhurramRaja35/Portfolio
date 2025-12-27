@@ -29,7 +29,7 @@ export default function Home() {
             <div className="1 text-2xl md:text-3xl font-bold">
               Hello, I'm
             </div>
-            <div className="2 text-5xl md:text-6xl font-bold autoShow">
+            <div className="2 text-4xl md:text-6xl font-bold autoShow">
               Khurram Raja
             </div>
             <div className="3 text-xl md:text-3xl font-bold autoShow">

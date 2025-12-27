@@ -27,14 +27,23 @@ const Project = () => {
         },
         {
             position: 3,
-             image: "/Bitlinks.png",
-        title: "BitLinks - Url Shortner",
-        description: "A simple and efficient URL shortener built for fast and reliable link sharing.",
-        liveLink: "https://bit-links-xi.vercel.app/",
-        githubLink: "https://github.com/KhurramRaja35/BitLinks",
+            image: "/moji-coc.png",
+            title: "Mojito Cocktails",
+            description: "An animation-driven Mojito cocktail landing page demonstrating GSAP mastery with React and Tailwind CSS. Features smooth transitions, scroll-based animations, and a modern Vite setup developed in WebStorm.",
+            liveLink: "https://mojito-cocktails-gilt.vercel.app/",
+            githubLink: "https://github.com/KhurramRaja35/Mojito-Cocktails",
         },
         {
             position: 4,
+            image: "/Bitlinks.png",
+            title: "BitLinks - Url Shortner",
+            description: "A simple and efficient URL shortener built for fast and reliable link sharing.",
+            liveLink: "https://bit-links-xi.vercel.app/",
+            githubLink: "https://github.com/KhurramRaja35/BitLinks",
+            
+        },
+        {
+            position: 5,
             image: "/Passop.png",
             title: "PassOP - Pasword Manager",
             description: "PassOP is a simple and secure web-based password manager built using React and Tailwind CSS. It allows users to store and manage their login credentials — including Website URL, Username, and Password — directly in the browser using localStorage.",
@@ -42,7 +51,7 @@ const Project = () => {
             githubLink: "https://github.com/KhurramRaja35/Pass0P-PasswordManager",
         },
         {
-            position: 5,
+            position: 6,
             image: "/player.png",
             title: "Spotify Inspired Music Player",
             description: "A web-based music player inspired by Spotify, built using HTML, CSS, and JavaScript. Features include song playback, playlists, and a user-friendly interface.",
@@ -50,7 +59,7 @@ const Project = () => {
             githubLink: "https://github.com/KhurramRaja35/spotify-like-music-player",
         },
         {
-            position: 6,
+            position: 7,
             image: "/dashboard.png",
             title: "Next Dashboard",
             description: "Build Dashboard App By Next.js 15, Drizzle ORM and Shadcn",
@@ -68,8 +77,8 @@ const Project = () => {
                 <div className="2 text-3xl md:text-6xl font-bold text-center">
                     Check My Amazing Work
                 </div>
-                <div className="desc w-full lg:w-[80%] mx-auto md:line-clamp-2 line-clamp-4 text-justify md:text-center">
-                    Explore my portfolio showcasing modern websites and fullstack solutions built with React, Next.js, TailwindCSS, MongoDB & GSAP. See how I turn ideas into high-quality, user-friendly digital experiences!
+                <div className="desc w-full lg:w-[90%] mx-auto md:line-clamp-2 line-clamp-4 text-justify md:text-center">
+                    Explore my projects showcasing modern, responsive web interfaces built with React, Next.js, Tailwind CSS, and GSAP. These projects highlight clean UI design, smooth animations, and practical frontend solutions with light backend integration where needed.
                 </div>
             </div>
 
