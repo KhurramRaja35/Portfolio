@@ -100,7 +100,7 @@ const Project = () => {
                     {items.map((item, index) => (
                         <SwiperSlide key={index}>
                             <div
-                                className={`w-full py-3 px-3 transition-all duration-500 ${item.position % 2 === 0 ? 'md:mt-14' : 'md:mt-4'} border-3 border-[#F45C70] rounded-lg transition-transform duration-500 ease-in-out transform hover:scale-110 hover:z-10 bg-white shadow-md`}
+                                className={`w-full py-3 px-3 transition-all duration-500 ${item.position % 2 === 0 ? 'md:mt-14' : 'md:mt-4'} border-3 border-[#F45C70] rounded-lg transition-transform duration-500 ease-in-out transform hover:scale-110 hover:z-10 bg-white shadow-lg`}
                             >
                                 <div
                                     className=" h-30  rounded-lg overflow-hidden bg-center bg-no-repeat bg-cover lg:bg-contain"

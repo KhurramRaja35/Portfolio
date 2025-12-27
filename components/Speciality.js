@@ -12,7 +12,7 @@ const Speciality = () => {
         <div className="2 text-3xl md:text-6xl font-bold ">
           Why Choose Me
         </div>
-        <div className="desc w-full  lg:w-[70%] md:mx-auto line-clamp-4 md:line-clamp-2 text-justify  md:text-center font-thin">
+        <div className="desc w-full  lg:w-[70%] md:mx-auto line-clamp-4 md:line-clamp-2 text-justify  md:text-center">
           I bring a unique blend of passion and skill, delivering tailored web solutions with React, Next.js, and TailwindCSS. My commitment to quality and continuous learning ensures your projects stand out with innovative, reliable results.
         </div>
       </div>
@@ -30,7 +30,7 @@ const Speciality = () => {
                 Talented Developer
               </h2>
             </div>
-            <p className='font-thin'>Skilled in modern web technologies
+            <p>Skilled in modern web technologies
               with a focus on clean, scalable code
               that brings ideas to life.
               Dedicated to writing maintainable logic. </p>
@@ -51,7 +51,7 @@ const Speciality = () => {
                 Modren Technology
               </h2>
             </div>
-            <p className='font-thin'>
+            <p>
               I use the latest frameworks and tools
               to build fast, reliable applications
               with modern development practices.
@@ -72,7 +72,7 @@ const Speciality = () => {
                 Responsive Designs
               </h2>
             </div>
-            <p className='font-thin'>
+            <p>
               Every layout adapts to any screen size -
               mobile, tablet, or desktop.
               Smooth usability across all devices.
@@ -92,7 +92,7 @@ const Speciality = () => {
                 Fast Performance
               </h2>
             </div>
-            <p className='font-thin'>Optimized assets and clean code
+            <p>Optimized assets and clean code
               deliver blazing fast load times
               for a seamless user experience.
               Speed is baked into every component.
@@ -112,7 +112,7 @@ const Speciality = () => {
                 Smooth Animations
               </h2>
             </div>
-            <p className='font-thin'>Subtle transitions and animations enhance engagement
+            <p>Subtle transitions and animations enhance engagement
               without sacrificing performance.
               UI feels polished and responsive.
               Brings life to the user experience.
@@ -132,7 +132,7 @@ const Speciality = () => {
                 Problem Solving Mindset
               </h2>
             </div>
-            <p className='font-thin'>Logical and analytical approach to
+            <p>Logical and analytical approach to
               resolving development challenges
               quickly and effectively.
               Focused on building real solutions.</p>
