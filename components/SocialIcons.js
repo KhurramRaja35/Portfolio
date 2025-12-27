@@ -64,7 +64,7 @@ const SocialIcons = () => {
                     key={index}
                     href={social.href}
                     target="_blank"
-                    className={`w-10 h-10 ${social.color} rounded-full flex items-center justify-center text-white transition-transform transition-colors duration-200 transform hover:scale-110`}
+                    className={`w-10 h-10 ${social.color} rounded-full flex items-center justify-center text-white transition-transform  duration-200 transform hover:scale-110`}
                     aria-label={social.name}
                 >
                     {social.icon}

@@ -7,14 +7,12 @@ const Service = () => {
 
       <div className=" flex flex-col gap-3 items-center text-center">
         <div className="1 text-[#9A87F4] text-xl lg:text-3xl text-center font-bold">
-          Services
+          What I Build
         </div>
         <div className="2 text-3xl md:text-6xl font-bold">
-          What I Frequently Do to
+          Modern Web Solutions I Work On
         </div>
-        <div className="3 text-3xl md:text-6xl font-bold">
-          Serve My Clients
-        </div>
+        
       </div>
 
       <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 md:gap-3 md:place-content-center ">
@@ -30,7 +28,7 @@ const Service = () => {
                 Frontend Web Development
               </div>
             </div> 
-            <p>I create modern, responsive websites with React and TailwindCSS tailored to your vision. Offer captivating landing pages, sleek company websites, and interactive contact forms.</p>
+            <p>I build responsive, high-performance user interfaces using React, Next.js, and modern frontend best practices.</p>
 
 
           </div>
@@ -44,12 +42,12 @@ const Service = () => {
                 <Image src={"/layout.svg"} alt='icon' width={30} height={30} />
               </div>
               <div className='font-bold text-xl lg:text-2xl'>
-                Static Site Generation & SEO 
+                High-Converting Landing Pages
               </div>
             </div> 
             
             <p>
-              I build fast, search-friendly websites with Next.js 15 to boost your online presence. Includes efficient page building, metadata for better visibility, and smooth performance.
+             I create visually engaging landing pages focused on clarity, performance, and conversion-driven layouts.
             </p>
           </div>
 
@@ -62,11 +60,11 @@ const Service = () => {
                 <Image src={"/uc.svg"} alt='icon'  width={30} height={30} />
               </div>
               <div className='font-bold text-xl lg:text-2xl'>
-                UI to Code Conversion
+                UI / Design to Code Conversion
               </div>
             </div>
             <p>
-              I transform designs or clone websites with TailwindCSS and React/Next.js precision.Convert Figma/Adobe XD/PSD files to functional components or replicate sites with responsive UI.
+              I convert Figma, Adobe XD, or PSD designs into pixel-perfect, responsive, and accessible code.
             </p>
           </div>
 
@@ -79,10 +77,10 @@ const Service = () => {
                 <Image src={"/avatar.svg"} alt='icon' width={30} height={30} />
               </div>
               <div className='font-bold text-xl lg:text-2xl'>
-                Custom Portfolio Website
+                WordPress & WooCommerce Websites
               </div>
             </div>
-            <p>I craft standout portfolio websites for developers, designers, and professionals using React/Next.js 15.Offer personalized sites, resume-style layouts, and fully responsive designs.</p>
+            <p>I develop custom WordPress and WooCommerce websites using Elementor for business and e-commerce needs.</p>
           </div>
 
         </div>
@@ -97,10 +95,10 @@ const Service = () => {
                 <Image src={"/s2.png"} alt='icon' width={30} height={30}/>
               </div>
               <div className='font-bold text-xl lg:text-2xl'>
-                React to Next.js Migration
+                Animated Websites & Motion UI
               </div>
             </div>
-            <p>I’ll migrate your React app to Next.js, enhancing performance with SSR/SSG, optimizing components, adding API routes and MongoDB if needed, and boosting SEO while preserving functionality and design.</p>
+            <p>I implement smooth, performance-optimized animations and scroll interactions using GSAP to enhance user experience.</p>
           </div>
         </div>
 
@@ -118,7 +116,7 @@ const Service = () => {
                 Full-Stack Web Applications
               </div>
             </div>
-            <p>I develop robust fullstack apps with Next.js to power your vision - Next.js API routes + MongoDB for seamless data handling. Includes secure auth, admin dashboards & custom CRUD APIs in one scalable package.</p>
+            <p>I’m expanding into full-stack development with Next.js APIs and MongoDB for scalable web applications.</p>
 
           </div>
 

@@ -84,7 +84,7 @@ const Skills = () => {
                 <div className="2 text-3xl md:text-6xl font-bold ">
                     I Develop Skills Regularly
                 </div>
-                <div className="desc w-[95%] lg:w-[70%] mx-auto line-clamp-3  md:line-clamp-2 text-justify md:text-center font-thin">
+                <div className="desc w-[95%] lg:w-[80%] mx-auto line-clamp-3  md:line-clamp-2 text-justify md:text-center">
                     Highlighting my journey of continuous learning, showcasing expertise in web development while exploring new technologies. I stay updated with the latest trends, ensuring my skills evolve to meet your project needs effectively.
                 </div>
             </div>

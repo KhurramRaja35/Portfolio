@@ -12,14 +12,14 @@ const Speciality = () => {
         <div className="2 text-3xl md:text-6xl font-bold ">
           Why Choose Me
         </div>
-        <div className="desc w-full  lg:w-[70%] md:mx-auto line-clamp-4 md:line-clamp-2 text-justify  md:text-center">
+        <div className="desc w-full  lg:w-[90%] md:mx-auto line-clamp-4 md:line-clamp-2 text-justify  md:text-center">
           I bring a unique blend of passion and skill, delivering tailored web solutions with React, Next.js, and TailwindCSS. My commitment to quality and continuous learning ensures your projects stand out with innovative, reliable results.
         </div>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 md:gap-4 lg:gap-3 ">
 
-        <div className="1 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-1 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
+        <div className="1 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-3 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
 
           <div className="flex flex-col gap-3">
             <div className="flex gap-3  items-center">
@@ -39,7 +39,7 @@ const Speciality = () => {
           </div>
         </div>
 
-        <div className="2 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-1 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
+        <div className="2 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-3 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
 
           <div className="flex flex-col gap-3">
 
@@ -60,7 +60,7 @@ const Speciality = () => {
           </div>
 
         </div>
-        <div className="3 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-1 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
+        <div className="3 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-3 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
 
           <div className="flex flex-col gap-3">
 
@@ -81,7 +81,7 @@ const Speciality = () => {
           </div>
 
         </div>
-        <div className="4 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-1 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
+        <div className="4 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-3 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
 
           <div className="flex flex-col gap-3">
             <div className="flex gap-3 items-center ">
@@ -101,7 +101,7 @@ const Speciality = () => {
           </div>
 
         </div>
-        <div className="5 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-1 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
+        <div className="5 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-3 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
 
           <div className="flex flex-col gap-3">
             <div className="flex gap-3 items-center ">
@@ -121,7 +121,7 @@ const Speciality = () => {
           </div>
 
         </div>
-        <div className="6 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-1 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
+        <div className="6 shadow-lg py-3 px-2 md:px-1 lg:px-4 rounded-md border-3 border-[#F45C70] md:transition-transform md:duration-500 md:ease-in-out md:transform md:hover:scale-110 md:hover:z-10 bg-white">
 
           <div className="flex flex-col gap-3">
             <div className="flex gap-3 items-center ">
