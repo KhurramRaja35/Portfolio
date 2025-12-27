@@ -68,7 +68,7 @@ const ContactForm = () => {
                 transition={Bounce}
             />
             <div className="max-w-md mx-auto">
-                <h3 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-8">Send Us Message</h3>
+                <h3 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-8">Send a Message</h3>
                 <form onSubmit={onSubmit} className="space-y-6">
                     {/* Name Field */}
                     <div>

@@ -33,7 +33,7 @@ export default function Home() {
               Khurram Raja
             </div>
             <div className="3 text-xl md:text-3xl font-bold autoShow">
-              A <span className="text-[#9A87F4]">Web </span>Developer from <span className="text-[#9A87F4]"> Kashmir 🌲</span>
+              A <span className="text-[#9A87F4]">Web </span>Developer from<span className="text-[#9A87F4]"> Kashmir 🌲</span>
             </div>
             <div className="desc line-clamp-2 lg:line-clamp-none autoShow">
               Frontend & WordPress Developer building modern, high-performance websites with React, Next.js, GSAP animations, and scalable WordPress solutions.

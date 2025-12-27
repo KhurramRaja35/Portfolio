@@ -8,7 +8,7 @@ const ContactInfo = () => {
         <div>
           <h2 className="text-3xl lg:text-4xl font-bold mb-4">Get In Touch</h2>
           <p className="text-indigo-100 mb-8 lg:mb-12 text-lg leading-relaxed">
-            Feel free to contact us? Submit your queries here and we will get back to you as soon as possible.
+            If you’re looking for a frontend developer or would like to discuss an opportunity, feel free to get in touch.
           </p>
         </div>
         
